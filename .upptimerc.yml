@@ -26,6 +26,9 @@ sites:
 
   - name: beSIGN Local Gateway API
     url: https://localgw.besign.app/api/v1
+
+  - name: PDF Signer
+    url: https://pdfsigner.besign.app
     
   - name: beSEAL
     url: https://beseal.besign.app
