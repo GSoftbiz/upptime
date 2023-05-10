@@ -1,4 +1,4 @@
-# [📈 Live Status](https://RST.github.io/RST): <!--live status--> **🟩 All systems operational**
+
 
 This repository contains the open-source uptime monitor and status page for [Robert Thau](https://RST.github.io/RST), powered by [Upptime](https://github.com/upptime/upptime).
 
