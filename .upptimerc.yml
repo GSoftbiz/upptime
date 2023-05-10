@@ -5,12 +5,21 @@ repo: upptime # The name of this repository
 sites:
   - name: beCONSENT
     url: https://www.beconsent.tech
+    assignees:
+      - Nanthawat R.
+      - Suphat
   - name: beSIGN
     url: https://rst.besign.app
+    assignees:
+      - n/a
   - name: beSEAL
     url: https://beseal.besign.app
+    assignees:
+      - Panithan
   - name: beCOOKIES
     url: https://www.becookies.tech
+    assignees:
+      - Nanthawat R.
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
