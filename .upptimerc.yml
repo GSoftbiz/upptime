@@ -17,21 +17,43 @@ sites:
 # ------------------------------------        
   - name: beSIGN
     url: https://rst.besign.app
+
+  - name: beSIGN Cert API
+    url: https://crt.besign.app/api/v1
+
+  - name: beSIGN Enterprise API
+    url: https://enterprise.besign.app/api/v1
+
+  - name: beSIGN Local Gateway API
+    url: https://localgw.besign.app/api/v1
     
   - name: beSEAL
     url: https://beseal.besign.app
 
+  - name: beSEAL API
+    url: https://beseal.besign.app/api
+
 # ------------------------------------
 # beCookies
 # ------------------------------------    
-  - name: beCOOKIES
+  - name: beCOOKIES AWS
     url: https://www.becookies.tech
+
+  - name: beCOOKIES AWS API
+    url: https://core.becookies.tech
+
+  - name: beCOOKIES GCP
+    url: https://prod.becookies.tech
+
+  - name: beCOOKIES GCP API
+    url: https://prod.becookies.tech/api 
     
 # ------------------------------------
 # beDID
 # ------------------------------------
   - name: beDID Admin
     url: https://admin.beid.tech
+
   - name: beDID Proxy API
     url: https://proxy.beid.tech/api 
 
