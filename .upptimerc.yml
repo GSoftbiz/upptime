@@ -20,12 +20,21 @@ sites:
 
   - name: beSIGN Cert API
     url: https://crt.besign.app/api/v1
+    expectedStatusCodes:
+      - 200
+      - 404
 
   - name: beSIGN Enterprise API
     url: https://enterprise.besign.app/api/v1
+    expectedStatusCodes:
+      - 200
+      - 404
 
   - name: beSIGN Local Gateway API
     url: https://localgw.besign.app/api/v1
+    expectedStatusCodes:
+      - 200
+      - 404
 
   - name: PDF Signer
     url: https://pdfsigner.besign.app
@@ -35,6 +44,9 @@ sites:
 
   - name: beSEAL API
     url: https://beseal.besign.app/api
+    expectedStatusCodes:
+      - 200
+      - 404
 
 # ------------------------------------
 # beCookies
@@ -44,12 +56,18 @@ sites:
 
   - name: beCOOKIES AWS API
     url: https://core.becookies.tech
+    expectedStatusCodes:
+      - 200
+      - 404
 
   - name: beCOOKIES GCP
     url: https://prod.becookies.tech
 
   - name: beCOOKIES GCP API
     url: https://prod.becookies.tech/api 
+    expectedStatusCodes:
+      - 200
+      - 404
     
 # ------------------------------------
 # beDID
@@ -59,6 +77,9 @@ sites:
 
   - name: beDID Proxy API
     url: https://proxy.beid.tech/api 
+    expectedStatusCodes:
+      - 200
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
