@@ -3,23 +3,37 @@ owner: gsoftbiz # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+# ------------------------------------
+# beCONSENT
+# ------------------------------------    
   - name: beCONSENT
     url: https://www.beconsent.tech
-    assignees:
-      - Nanthawat R.
-      - Suphat
+
+  - name: beCONSENT Admin
+    url: https://admin.beconsent.tech
+
+# ------------------------------------
+# beSIGN
+# ------------------------------------        
   - name: beSIGN
     url: https://rst.besign.app
-    assignees:
-      - n/a
+    
   - name: beSEAL
     url: https://beseal.besign.app
-    assignees:
-      - Panithan
+
+# ------------------------------------
+# beCookies
+# ------------------------------------    
   - name: beCOOKIES
     url: https://www.becookies.tech
-    assignees:
-      - Nanthawat R.
+    
+# ------------------------------------
+# beDID
+# ------------------------------------
+  - name: beDID Admin
+    url: https://admin.beid.tech
+  - name: beDID Proxy API
+    url: https://proxy.beid.tech/api 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
