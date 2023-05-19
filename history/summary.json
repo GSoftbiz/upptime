@@ -40,18 +40,20 @@
     "url": "https://rst.besign.app",
     "icon": "https://icons.duckduckgo.com/ip3/rst.besign.app.ico",
     "slug": "be-sign",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 672,
     "timeDay": 612,
     "timeWeek": 664,
     "timeMonth": 672,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-19": 5
+    }
   },
   {
     "name": "beSIGN Cert API",
@@ -76,36 +78,40 @@
     "url": "https://enterprise.besign.app/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/enterprise.besign.app.ico",
     "slug": "be-sign-enterprise-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 684,
     "timeDay": 593,
     "timeWeek": 665,
     "timeMonth": 684,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-19": 4
+    }
   },
   {
     "name": "beSIGN Local Gateway API",
     "url": "https://localgw.besign.app/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/localgw.besign.app.ico",
     "slug": "be-sign-local-gateway-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 684,
     "timeDay": 622,
     "timeWeek": 656,
     "timeMonth": 684,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-19": 4
+    }
   },
   {
     "name": "PDF Signer",
@@ -124,7 +130,7 @@
     "timeMonth": 1062,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-05-19": 1013,
+      "2023-05-19": 1021,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -141,36 +147,40 @@
     "url": "https://beseal.besign.app",
     "icon": "https://icons.duckduckgo.com/ip3/beseal.besign.app.ico",
     "slug": "be-seal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 670,
     "timeDay": 599,
     "timeWeek": 651,
     "timeMonth": 670,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-19": 3
+    }
   },
   {
     "name": "beSEAL API",
     "url": "https://beseal.besign.app/api",
     "icon": "https://icons.duckduckgo.com/ip3/beseal.besign.app.ico",
     "slug": "be-seal-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 219,
     "timeDay": 177,
     "timeWeek": 201,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-19": 3
+    }
   },
   {
     "name": "beCOOKIES AWS",
@@ -178,18 +188,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.becookies.tech.ico",
     "slug": "be-cookies-aws",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 924,
     "timeDay": 569,
     "timeWeek": 1020,
     "timeMonth": 924,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2023-05-19": 2
+      "2023-05-19": 11
     }
   },
   {
@@ -209,7 +219,7 @@
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2023-05-19": 1013,
+      "2023-05-19": 1021,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -227,18 +237,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.becookies.tech.ico",
     "slug": "be-cookies-gcp",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 658,
     "timeDay": 574,
     "timeWeek": 639,
     "timeMonth": 658,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2023-05-19": 2
+      "2023-05-19": 10
     }
   },
   {
@@ -247,18 +257,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.becookies.tech.ico",
     "slug": "be-cookies-gcp-api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 239,
     "timeDay": 175,
     "timeWeek": 194,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-05-19": 1
+      "2023-05-19": 10
     }
   },
   {
@@ -267,18 +277,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.beid.tech.ico",
     "slug": "be-did-admin",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 678,
     "timeDay": 606,
     "timeWeek": 670,
     "timeMonth": 678,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2023-05-19": 1
+      "2023-05-19": 9
     }
   },
   {
@@ -287,18 +297,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.beid.tech.ico",
     "slug": "be-did-proxy-api",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.79%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 664,
     "timeDay": 592,
     "timeWeek": 656,
     "timeMonth": 664,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-05-19": 0,
+      "2023-05-19": 9,
       "2023-05-10": 19
     }
   }
