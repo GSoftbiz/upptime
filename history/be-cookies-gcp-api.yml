@@ -1,7 +1,7 @@
 url: https://prod.becookies.tech/api
-status: up
-code: 404
-responseTime: 236
-lastUpdated: 2023-10-05T23:06:29.003Z
+status: down
+code: 503
+responseTime: 231
+lastUpdated: 2023-10-06T04:15:47.281Z
 startTime: 2023-05-10T14:54:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
