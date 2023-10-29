@@ -1,7 +1,7 @@
 url: https://beseal.besign.app/api
-status: up
-code: 404
-responseTime: 289
-lastUpdated: 2023-10-28T23:05:46.929Z
+status: down
+code: 500
+responseTime: 8287
+lastUpdated: 2023-10-29T03:21:46.439Z
 startTime: 2023-05-10T14:54:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
