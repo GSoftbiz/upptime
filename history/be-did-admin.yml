@@ -1,7 +1,7 @@
 url: https://admin.beid.tech
-status: up
-code: 200
-responseTime: 277
-lastUpdated: 2024-02-14T23:06:05.646Z
+status: down
+code: 502
+responseTime: 280
+lastUpdated: 2024-02-15T08:35:20.080Z
 startTime: 2023-05-10T14:44:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
