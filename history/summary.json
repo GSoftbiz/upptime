@@ -99,19 +99,19 @@
     "url": "https://crt.besign.app/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/crt.besign.app.ico",
     "slug": "be-sign-cert-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.73%",
     "time": 280,
-    "timeDay": 264,
+    "timeDay": 265,
     "timeWeek": 269,
     "timeMonth": 260,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-03-25": 0,
+      "2024-03-25": 6,
       "2024-02-02": 816,
       "2023-08-24": 423
     }
@@ -182,7 +182,7 @@
     "timeMonth": 651,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2024-03-25": 1284,
+      "2024-03-25": 1290,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -607,7 +607,7 @@
     "timeMonth": 872,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2024-03-25": 1284,
+      "2024-03-25": 1290,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -947,7 +947,7 @@
     "timeMonth": 0,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2024-03-25": 1284,
+      "2024-03-25": 1290,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -1129,7 +1129,7 @@
     "timeMonth": 0,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-03-25": 1284,
+      "2024-03-25": 1290,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
