@@ -181,7 +181,7 @@
     "timeMonth": 637,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2024-04-11": 910,
+      "2024-04-11": 927,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -611,7 +611,7 @@
     "url": "https://core.becookies.tech",
     "icon": "https://icons.duckduckgo.com/ip3/core.becookies.tech.ico",
     "slug": "be-cookies-aws-api",
-    "status": "up",
+    "status": "down",
     "uptime": "0.08%",
     "uptimeDay": "28.29%",
     "uptimeWeek": "4.04%",
@@ -623,7 +623,7 @@
     "timeMonth": 2139,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2024-04-11": 503,
+      "2024-04-11": 520,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -980,7 +980,7 @@
     "timeMonth": 0,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2024-04-11": 910,
+      "2024-04-11": 927,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -1179,7 +1179,7 @@
     "timeMonth": 0,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-04-11": 911,
+      "2024-04-11": 927,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
