@@ -54,11 +54,11 @@ sites:
   - name: beCOOKIES AWS
     url: https://www.becookies.tech
 
-  - name: beCOOKIES AWS API
-    url: https://core.becookies.tech
-    expectedStatusCodes:
-      - 200
-      - 404
+  # - name: beCOOKIES AWS API
+  #   url: https://core.becookies.tech
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 404
 
   - name: beCOOKIES GCP
     url: https://prod.becookies.tech
