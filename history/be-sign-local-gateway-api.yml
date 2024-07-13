@@ -1,7 +1,7 @@
 url: https://localgw.besign.app/api/v1
-status: down
-code: 502
-responseTime: 270
-lastUpdated: 2024-07-13T07:10:01.972Z
+status: up
+code: 404
+responseTime: 223
+lastUpdated: 2024-07-13T07:18:58.659Z
 startTime: 2023-05-10T14:54:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
