@@ -135,14 +135,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.66%",
+    "uptimeYear": "89.65%",
     "time": 273,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-10-05": 595,
+      "2024-10-05": 600,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -201,7 +201,7 @@
     "timeMonth": 633,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2024-10-05": 595,
+      "2024-10-05": 600,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -585,7 +585,7 @@
     "timeMonth": 0,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-10-05": 595,
+      "2024-10-05": 600,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -643,7 +643,7 @@
     "timeMonth": 0,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-10-05": 595,
+      "2024-10-05": 600,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -731,7 +731,7 @@
     "timeMonth": 0,
     "timeYear": 4622,
     "dailyMinutesDown": {
-      "2024-10-05": 595,
+      "2024-10-05": 600,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -1096,7 +1096,7 @@
     "timeMonth": 0,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2024-10-05": 595,
+      "2024-10-05": 600,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -1439,19 +1439,19 @@
     "url": "https://admin.beid.tech",
     "icon": "https://icons.duckduckgo.com/ip3/admin.beid.tech.ico",
     "slug": "be-did-admin",
-    "status": "down",
+    "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 335,
-    "timeWeek": 319,
-    "timeMonth": 306,
-    "timeYear": 286,
+    "time": 296,
+    "timeDay": 367,
+    "timeWeek": 331,
+    "timeMonth": 309,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-10-05": 1
+      "2024-10-05": 6
     }
   },
   {
@@ -1459,19 +1459,19 @@
     "url": "https://proxy.beid.tech/api",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.beid.tech.ico",
     "slug": "be-did-proxy-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 712,
-    "timeWeek": 706,
-    "timeMonth": 735,
+    "time": 703,
+    "timeDay": 765,
+    "timeWeek": 720,
+    "timeMonth": 737,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-10-05": 1
+      "2024-10-05": 6
     }
   }
 ]
