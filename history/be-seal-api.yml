@@ -1,7 +1,7 @@
 url: https://beseal.besign.app/api
 status: down
-code: 500
-responseTime: 12489
-lastUpdated: 2025-01-24T23:06:53.464Z
+code: 400
+responseTime: 11405
+lastUpdated: 2025-01-25T23:07:08.611Z
 startTime: 2023-05-10T14:54:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
