@@ -201,7 +201,7 @@
     "timeMonth": 679,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-02-01": 386,
+      "2025-02-01": 396,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -679,7 +679,7 @@
     "timeMonth": 10380,
     "timeYear": 2949,
     "dailyMinutesDown": {
-      "2025-02-01": 386,
+      "2025-02-01": 396,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -880,7 +880,7 @@
     "timeMonth": 0,
     "timeYear": 4863,
     "dailyMinutesDown": {
-      "2025-02-01": 386,
+      "2025-02-01": 396,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1262,7 +1262,7 @@
     "timeMonth": 0,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2025-02-01": 386,
+      "2025-02-01": 396,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1640,19 +1640,19 @@
     "url": "https://proxy.beid.tech/api",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.beid.tech.ico",
     "slug": "be-did-proxy-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 751,
-    "timeWeek": 716,
-    "timeMonth": 719,
-    "timeYear": 705,
+    "time": 698,
+    "timeDay": 889,
+    "timeWeek": 766,
+    "timeMonth": 732,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-02-01": 0
+      "2025-02-01": 10
     }
   }
 ]
