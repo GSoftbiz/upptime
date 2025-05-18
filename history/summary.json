@@ -29,14 +29,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.71%",
+    "uptimeYear": "82.70%",
     "time": 364,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-05-18": 210,
+      "2025-05-18": 229,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -274,7 +274,7 @@
     "timeMonth": 667,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-05-18": 211,
+      "2025-05-18": 230,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -929,19 +929,19 @@
     "url": "https://www.becookies.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.becookies.tech.ico",
     "slug": "be-cookies-aws",
-    "status": "down",
+    "status": "up",
     "uptime": "98.33%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 383,
-    "timeDay": 334,
+    "timeDay": 330,
     "timeWeek": 327,
     "timeMonth": 321,
-    "timeYear": 393,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2025-05-18": 0,
+      "2025-05-18": 19,
       "2025-04-10": 65
     }
   },
@@ -962,7 +962,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 211,
+      "2025-05-18": 230,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1346,7 +1346,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 211,
+      "2025-05-18": 230,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1718,19 +1718,19 @@
     "url": "https://admin.beid.tech",
     "icon": "https://icons.duckduckgo.com/ip3/admin.beid.tech.ico",
     "slug": "be-did-admin",
-    "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "98.65%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 322,
-    "timeWeek": 314,
-    "timeMonth": 309,
+    "timeDay": 324,
+    "timeWeek": 315,
+    "timeMonth": 310,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-05-18": 0
+      "2025-05-18": 19
     }
   },
   {
@@ -1738,19 +1738,19 @@
     "url": "https://proxy.beid.tech/api",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.beid.tech.ico",
     "slug": "be-did-proxy-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 706,
-    "timeDay": 773,
-    "timeWeek": 741,
-    "timeMonth": 720,
+    "timeDay": 777,
+    "timeWeek": 745,
+    "timeMonth": 722,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-05-18": 0
+      "2025-05-18": 19
     }
   }
 ]
