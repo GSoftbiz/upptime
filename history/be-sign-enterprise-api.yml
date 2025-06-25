@@ -1,7 +1,7 @@
 url: https://enterprise.besign.app/api/v1
-status: down
-code: 502
-responseTime: 692
-lastUpdated: 2025-06-25T07:57:23.158Z
+status: up
+code: 404
+responseTime: 1444
+lastUpdated: 2025-06-25T08:07:55.417Z
 startTime: 2023-05-10T14:54:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
