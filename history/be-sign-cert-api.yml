@@ -1,7 +1,7 @@
 url: https://crt.besign.app/api/v1
-status: down
-code: 502
-responseTime: 24672
-lastUpdated: 2025-06-29T23:07:31.515Z
+status: up
+code: 404
+responseTime: 2103
+lastUpdated: 2025-06-29T23:20:40.520Z
 startTime: 2023-05-10T14:54:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
