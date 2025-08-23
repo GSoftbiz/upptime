@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-08-23": 834,
+      "2025-08-23": 840,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -399,7 +399,7 @@
     "timeMonth": 621,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2025-08-23": 835,
+      "2025-08-23": 840,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -1068,19 +1068,19 @@
     "url": "https://www.becookies.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.becookies.tech.ico",
     "slug": "be-cookies-aws",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 363,
-    "timeDay": 322,
-    "timeWeek": 348,
-    "timeMonth": 314,
+    "timeDay": 321,
+    "timeWeek": 345,
+    "timeMonth": 315,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-08-23": 1,
+      "2025-08-23": 6,
       "2025-05-18": 19,
       "2025-04-10": 65
     }
@@ -1102,7 +1102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-23": 835,
+      "2025-08-23": 841,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -1486,7 +1486,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-23": 835,
+      "2025-08-23": 841,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
