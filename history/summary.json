@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beconsent.tech.ico",
     "slug": "be-consent",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 570,
-    "timeDay": 695,
-    "timeWeek": 770,
-    "timeMonth": 717,
-    "timeYear": 563,
+    "time": 572,
+    "timeDay": 849,
+    "timeWeek": 781,
+    "timeMonth": 722,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2025-06-30": 17,
       "2025-01-16": 15
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.beconsent.tech.ico",
     "slug": "be-consent-admin",
     "status": "down",
-    "uptime": "75.21%",
+    "uptime": "75.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.55%",
+    "uptimeYear": "40.28%",
     "time": 336,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-10-19": 17,
+      "2025-10-20": 16,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -263,18 +264,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rst.besign.app.ico",
     "slug": "be-sign",
     "status": "down",
-    "uptime": "94.65%",
+    "uptime": "94.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.47%",
-    "uptimeYear": "92.27%",
-    "time": 722,
+    "uptimeMonth": "22.19%",
+    "uptimeYear": "91.99%",
+    "time": 723,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1900,
-    "timeYear": 789,
+    "timeMonth": 2002,
+    "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-10-19": 17,
+      "2025-10-20": 16,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -328,11 +330,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.81%",
     "uptimeYear": "99.38%",
-    "time": 416,
-    "timeDay": 749,
-    "timeWeek": 769,
-    "timeMonth": 572,
-    "timeYear": 474,
+    "time": 417,
+    "timeDay": 716,
+    "timeWeek": 759,
+    "timeMonth": 584,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2025-09-30": 495,
       "2025-09-29": 1440,
@@ -354,8 +356,8 @@
     "uptimeMonth": "91.88%",
     "uptimeYear": "94.30%",
     "time": 768,
-    "timeDay": 649,
-    "timeWeek": 730,
+    "timeDay": 677,
+    "timeWeek": 716,
     "timeMonth": 752,
     "timeYear": 887,
     "dailyMinutesDown": {
@@ -399,11 +401,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.67%",
-    "uptimeYear": "97.86%",
-    "time": 772,
-    "timeDay": 746,
-    "timeWeek": 760,
-    "timeMonth": 1100,
+    "uptimeYear": "98.14%",
+    "time": 774,
+    "timeDay": 950,
+    "timeWeek": 782,
+    "timeMonth": 1106,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2025-10-06": 16,
@@ -419,8 +421,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -434,13 +435,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 675,
-    "timeDay": 659,
-    "timeWeek": 604,
-    "timeMonth": 758,
+    "time": 673,
+    "timeDay": 569,
+    "timeWeek": 585,
+    "timeMonth": 639,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2025-10-19": 17,
+      "2025-10-20": 16,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -803,8 +805,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -813,15 +814,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/beseal.besign.app.ico",
     "slug": "be-seal",
     "status": "up",
-    "uptime": "90.87%",
+    "uptime": "90.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.16%",
-    "uptimeYear": "93.01%",
-    "time": 646,
-    "timeDay": 725,
-    "timeWeek": 739,
-    "timeMonth": 1130,
+    "uptimeYear": "93.28%",
+    "time": 647,
+    "timeDay": 684,
+    "timeWeek": 723,
+    "timeMonth": 1131,
     "timeYear": 736,
     "dailyMinutesDown": {
       "2025-09-30": 18,
@@ -857,8 +858,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -867,16 +867,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beseal.besign.app.ico",
     "slug": "be-seal-api",
     "status": "up",
-    "uptime": "80.43%",
+    "uptime": "80.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.45%",
-    "uptimeYear": "66.79%",
+    "uptimeYear": "67.06%",
     "time": 2297,
-    "timeDay": 197,
-    "timeWeek": 220,
+    "timeDay": 215,
+    "timeWeek": 219,
     "timeMonth": 631,
-    "timeYear": 2748,
+    "timeYear": 2742,
     "dailyMinutesDown": {
       "2025-09-30": 18,
       "2025-09-29": 771,
@@ -1007,8 +1007,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -1023,9 +1022,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 368,
-    "timeDay": 345,
-    "timeWeek": 344,
-    "timeMonth": 324,
+    "timeDay": 293,
+    "timeWeek": 329,
+    "timeMonth": 323,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2025-05-18": 19,
@@ -1038,7 +1037,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.becookies.tech.ico",
     "slug": "be-cookies-gcp",
     "status": "down",
-    "uptime": "19.69%",
+    "uptime": "19.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1049,7 +1048,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-19": 17,
+      "2025-10-20": 17,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -1412,8 +1412,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -1422,7 +1421,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.becookies.tech.ico",
     "slug": "be-cookies-gcp-api",
     "status": "down",
-    "uptime": "19.76%",
+    "uptime": "19.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1433,7 +1432,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-19": 17,
+      "2025-10-20": 17,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -1796,8 +1796,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -1812,9 +1811,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 366,
-    "timeWeek": 339,
-    "timeMonth": 323,
+    "timeDay": 319,
+    "timeWeek": 330,
+    "timeMonth": 324,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2025-05-18": 19
@@ -1832,9 +1831,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 719,
-    "timeDay": 645,
-    "timeWeek": 755,
-    "timeMonth": 736,
+    "timeDay": 716,
+    "timeWeek": 739,
+    "timeMonth": 737,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2025-05-18": 19
