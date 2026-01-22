@@ -1,7 +1,7 @@
 url: https://proxy.beid.tech/api
-status: up
-code: 404
-responseTime: 855
-lastUpdated: 2026-01-22T09:55:47.249Z
+status: down
+code: 503
+responseTime: 746
+lastUpdated: 2026-01-22T10:58:02.138Z
 startTime: 2023-05-10T14:44:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
