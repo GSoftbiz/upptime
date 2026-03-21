@@ -1,7 +1,7 @@
 url: https://www.beconsent.tech
-status: up
-code: 200
-responseTime: 550
-lastUpdated: 2026-03-20T23:12:23.813Z
+status: down
+code: 502
+responseTime: 9570
+lastUpdated: 2026-03-21T16:53:38.582Z
 startTime: 2023-05-10T09:05:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
